@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Монстера Thai Constellation",
+    "price": "4 900 руб.",
+    "description": "Молодое растение в 11 см горшке. Укоренённый черенок с хорошими корнями.",
+    "photo": "https://i.imgur.com/7zY5nJm.jpg"
+  },
+  {
+    "name": "Алоказия Black Velvet",
+    "price": "1 900 руб.",
+    "description": "Компактная форма, декоративные листья. Отлично подходит для коллекции.",
+    "photo": "https://i.imgur.com/U7sQb6K.jpg"
+  },
+  {
+    "name": "Филодендрон Pink Princess",
+    "price": "3 200 руб.",
+    "description": "Редкий сорт с вариегатными листьями, нуждается в ярком рассеянном свете.",
+    "photo": "https://i.imgur.com/FaO2I5r.jpg"
+  }
+]
